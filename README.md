@@ -24,3 +24,4 @@ Percentage of Sales by Pizza Size: Pie chart representing sales percentage attri
 Total Pizzas Sold by Pizza Category: Funnel chart presenting total pizzas sold for each pizza category.
 Top 5 Best Sellers: Bar chart highlighting the top 5 best-selling pizzas.
 Bottom 5 Worst Sellers: Bar chart showcasing the bottom 5 worst-selling pizzas.
+Repository Contents
